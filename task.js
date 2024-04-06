@@ -2,9 +2,9 @@ document.addEventListener("DOMContentLoaded", function () {
   var buttons = document.querySelectorAll(".square-block");
 
   var urls = [
-    "https://t.me/mellcoinsapp",
+    "https://t.me/mellcoins_app",
     "https://kick.com/mellstroy271",
-    "https://1wgtqa.life/casino/list?open=register#01a4",
+    "https://1wnurc.com/#zheo",
     "https://refpakrtsb.top/L?tag=d_852201m_22179c_&site=852201&ad=22179",
   ];
 
